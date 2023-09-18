@@ -2,14 +2,23 @@
 ------------------------------*/
 body {
     color: #343434;
+    margin: 0;
+    padding: 0;
 }
+img { 
+    width: 300px;
+}
+
 a {
         color: #ffe66d;
     }
 a:hover {
     text-decoration: none;
 }
-
+.content-wrap {
+    width: 800px;
+    margin: 0 auto;
+}
 /* Profile
 ------------------------------*/
 header {
