@@ -7,18 +7,18 @@ body {
 ------------------------------*/
 header {
     background: #2f3061;
-    /* Global style
+    /* Projects
 ------------------------------*/
 }
 .projects
 {
     background: #F7FFF7;
 }
-/* Profile
-------------------------------*/
-/* Projects
-------------------------------*/
+
 /* work experience
 ------------------------------*/
+.work-experience {
+background: #a1c6d7;
+}
 /* education
 ------------------------------*/
