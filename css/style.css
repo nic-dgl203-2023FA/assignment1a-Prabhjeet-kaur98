@@ -18,11 +18,17 @@ a {
 a:hover {
     text-decoration: none;
 }
+h1 {
+    font-size: 100px;
+}
 h2 {
     margin: 0;
+    font-size: 45px;
 }
 h1, h2 {
     font-family: 'Caveat', cursive;
+    font-weight: 400;
+    margin: 0;
 }
 .content-wrap {
     width: 800px;
