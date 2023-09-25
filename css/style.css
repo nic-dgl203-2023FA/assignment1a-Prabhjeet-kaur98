@@ -33,7 +33,7 @@ h2 {
     font-size: 45px;
 }
 h1, h2 {
-    font-family: 'Caveat', cursive;
+    font-family:'Caveat', cursive;
     font-weight: 400;
     margin: 0;
 }
@@ -44,6 +44,9 @@ h1, h2 {
 }
 h3 + p {
     font-style: italic;
+}
+h3 ~ p {
+    margin: 0;
 }
 /* Profile
 ------------------------------*/
