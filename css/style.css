@@ -73,6 +73,7 @@ header {
 }
 .project-item {
     overflow: hidden;
+    margin-right: 20px;
 }
 .project-item img {
     float: left;
