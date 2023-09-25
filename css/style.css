@@ -93,7 +93,7 @@ background: #a1c6d7;
 .job-item {
     display: grid;
     grid-template-columns: 2fr 3fr;
-    
+    column-gap: 20px;
 }
 /* footer
 ------------------------------*/
