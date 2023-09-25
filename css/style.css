@@ -114,6 +114,7 @@ background: #a1c6d7;
 ------------------------------*/
 .education {
  background-image : url(../images/joanna-kosinska-unsplash.jpg);
+ background-size: cover;
 }
 /* footer
 ------------------------------*/
