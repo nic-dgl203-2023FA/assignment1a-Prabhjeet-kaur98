@@ -80,6 +80,9 @@ header {
     margin-right: 20px;
     float: left;
 }
+.project-item h3 {
+    margin-top: 0;
+}
 
 /* work experience
 ------------------------------*/
