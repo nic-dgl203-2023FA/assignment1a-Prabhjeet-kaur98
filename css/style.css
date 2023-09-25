@@ -73,9 +73,10 @@ header {
 }
 .project-item {
     overflow: hidden;
-    margin-right: 20px;
+    border-bottom: 1px dashed #343434;
 }
 .project-item img {
+    margin-right: 20px;
     float: left;
 }
 
