@@ -116,6 +116,7 @@ background: #a1c6d7;
  background-image : url(../images/joanna-kosinska-unsplash.jpg);
  background-size: cover;
  background-position: top right;
+ padding-bottom: 100px;
 }
 /* footer
 ------------------------------*/
