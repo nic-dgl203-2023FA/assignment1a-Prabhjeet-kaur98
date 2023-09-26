@@ -101,11 +101,6 @@ header {
 .work-experience {
 background: #a1c6d7;
 }
-.job-item {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    column-gap: 20px;
-}
 /* education
 ------------------------------*/
 .education {
@@ -137,6 +132,11 @@ footer {
     .project-item img {
         margin-right: 20px;
         float: left;
+    }
+    .job-item {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        column-gap: 20px;
     }
     
 }
