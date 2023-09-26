@@ -146,6 +146,9 @@ footer {
             margin-bottom: 20px;
 
         }
+        h2 {
+            line-height: 1;
+        }
 
 
     }
