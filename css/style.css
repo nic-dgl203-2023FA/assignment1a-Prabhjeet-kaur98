@@ -141,18 +141,22 @@ footer {
         display: flex;
         justify-content: center;
     }
-    @media screen and (max-width:749px) {
-        h1 {
+
+    }
+@media screen and (max-width:749px) {
+    h1 {
             font-size: 75px;
             line-height: 0.9;
             margin-bottom: 20px;
 
-        }
-        h2 {
-            line-height: 1;
-        }
-
-
     }
-    
+    h2 {
+            line-height: 1;
+    }
+    .contact-list a {
+        padding: 5px;
+    }    
+
+
 }
+    
