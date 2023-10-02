@@ -71,6 +71,8 @@ h3 {
 ------------------------------*/
 nav {
     position: fixed;
+    top: 20px;
+    right: 40px;
     background-color: #5fcddc ;
 }
 /* Navigation links
