@@ -6,6 +6,7 @@
  612475 - Purple
  000000- black 
  ff7096 - light pink
+ fbb1bd -warm pink
  */
 
 
@@ -103,7 +104,7 @@ header {
 
 .projects
 {
-    background: #ff7096;
+    background: #fbb1bd;
     
 }
 .projects a {
