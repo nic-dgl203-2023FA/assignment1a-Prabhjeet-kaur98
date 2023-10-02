@@ -71,8 +71,12 @@ h3 {
 ------------------------------*/
 ul {
     display: inline;
+    background-color: #5fcddc ;
 }
-
+li {
+    float: right;
+    
+}
 
 /* Profile
 ------------------------------*/
