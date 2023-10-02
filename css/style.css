@@ -72,6 +72,8 @@ h3 {
 nav {
     position: fixed;
 }
+/* Navigation links
+------------------------------*/
 nav ul {
     display: inline-block;
     background-color: #5fcddc ;
