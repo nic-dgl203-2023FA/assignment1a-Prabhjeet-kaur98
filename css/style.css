@@ -79,6 +79,7 @@ nav ul {
     display: inline-block;
     list-style-type: none;
     padding: 10px;
+    margin: 10px;
     
 }
 nav li {
