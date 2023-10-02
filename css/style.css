@@ -28,7 +28,8 @@ img {
 }
 
 a {
-        color: #ed1565 ;
+        color: #ed1565;
+        font-weight: bold;
     }
 a:hover {
     text-decoration: none;
