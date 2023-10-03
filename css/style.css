@@ -8,6 +8,7 @@
  000000- black 
  ff7096 - light pink
  fbb1bd -warm pink
+ 48bfe3 -light blue
  */
 
 
@@ -114,14 +115,14 @@ header {
 
 .projects .btn {
     color: #F7FFF7;
-    background: #2f3061;
+    background: #48bfe3;
     text-decoration: none;
     padding: 8px;
     border-radius: 4px;
     display: inline-block;
 }
 .projects .btn:hover {
-    background: rgba(47, 48, 97, 80%);
+    background: rgba(72, 191, 227, 70%);
 }
 .project-item {
     overflow: hidden;
