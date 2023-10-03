@@ -91,6 +91,10 @@ h3 {
     margin-right: 40px;
     
 }
+.navbar a {
+    font-weight: bold;
+    font-size: 20px;
+}
 
 /* Profile
 ------------------------------*/
