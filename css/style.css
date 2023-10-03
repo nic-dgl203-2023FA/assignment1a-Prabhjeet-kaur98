@@ -145,7 +145,7 @@ background: #80ffdb;
 /* education
 ------------------------------*/
 .education {
- background-image : url(../images/various-colorful-stationery-school-office-pink-background-with-copyspace.jpg);
+ background-image : url(../images/various-colorful-stationery-school-office-pink-background-with-copyspace\ .jpg);
  background-size: cover;
  background-position: top right;
  padding-bottom: 100px;
