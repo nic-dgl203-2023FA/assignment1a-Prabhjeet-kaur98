@@ -236,6 +236,14 @@ footer {
     justify-content: center;
     align-items: center;
 }
+/* Add styles for the button inside grid 1 */
+.transition-button {
+    background: #4591c7;
+
+}
+
+
+
 
 /* Motion grid Media query for small screens */
 @media screen and (max-width: 749px) {
