@@ -250,6 +250,7 @@ footer {
    .transition-button:hover {
     background-color: #3c42e7;
     color: #000000;
+    transform: scale(1.3);
    }
 
 
