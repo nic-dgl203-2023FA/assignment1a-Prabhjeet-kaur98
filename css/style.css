@@ -231,3 +231,9 @@ footer {
     text-align: center;
     border: 2px solid #343434;
 }
+
+/* Motion grid Media query for small screens */
+@media screen and (max-width: 749px) {
+    
+}
+
