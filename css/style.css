@@ -227,4 +227,6 @@ footer {
 }
 .custom-grid-item {
     background: #80ffdb;
+    padding: 20px;
+    text-align: center;
 }
