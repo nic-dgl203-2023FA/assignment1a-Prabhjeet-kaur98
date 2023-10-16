@@ -228,11 +228,13 @@ footer {
 
 }
 .custom-grid-item {
-    
     background: #80ffdb;
     padding: 20px;
     text-align: center;
     border: 2px solid #343434;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Motion grid Media query for small screens */
