@@ -219,3 +219,6 @@ footer {
     margin: 0 auto;
 
 }
+.custom-grid-container {
+    display: grid;
+}
