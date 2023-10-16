@@ -247,6 +247,10 @@ footer {
     padding: 18px;
     border-radius: 4px;
    }
+   .transition-button:hover {
+    background-color: #3c42e7;
+    color: #000000;
+   }
 
 
 
