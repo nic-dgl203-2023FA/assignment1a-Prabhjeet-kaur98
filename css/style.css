@@ -239,6 +239,7 @@ footer {
 /* Add styles for the button inside grid 1 */
 .transition-button {
     background: #4591c7;
+    width: 64%;
 
 }
 
