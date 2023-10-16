@@ -241,6 +241,9 @@ footer {
     background: #4591c7;
     width: 64%;
     color: #F7FFF7;
+    border: none;
+    cursor: pointer;
+
 
 }
 
