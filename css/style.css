@@ -243,7 +243,8 @@ footer {
     color: #F7FFF7;
     border: none;
     cursor: pointer;
-
+    transition: background-color 0.4s ease, color 1s ease, transform 0.2s ease;
+   
 
 }
 
