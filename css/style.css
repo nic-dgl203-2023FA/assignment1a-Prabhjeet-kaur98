@@ -75,16 +75,20 @@ h3 {
 /* Navigation
 ------------------------------*/
 .navbar {
-    position: fixed;
-    top: 20px;
-    right: 40px;
+    background-color: #343434;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    text-align: right;
+
 }
 /* Navigation links
 ------------------------------*/
 .navbar ul {
     list-style-type: none;
     padding: 10px;
-    margin: 10px;
+    margin: -1px;
 }
 .navbar li {
     display: inline-block;
@@ -199,4 +203,11 @@ footer {
         padding: 5px;
     }    
 }
-    
+ 
+ /* Css for Motion.html
+------------------------------*/
+/* Navigation Motion
+------------------------------*/
+.navbar .list{
+    float: left;
+}
