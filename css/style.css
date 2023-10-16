@@ -234,6 +234,10 @@ footer {
 
 /* Motion grid Media query for small screens */
 @media screen and (max-width: 749px) {
+    .custom-grid-container {
+        grid-template-columns: 1fr; 
+        grid-template-rows: repeat(6, 1fr);
+    }
     
 }
 
