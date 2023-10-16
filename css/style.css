@@ -213,4 +213,6 @@ footer {
 }
 .custom-grid-section {
     background: #fbb1bd;
+    padding: 40px;
+    text-align: center;
 }
