@@ -225,3 +225,6 @@ footer {
     grid-gap: 20px;
 
 }
+.custom-grid-item {
+    background: #80ffdb;
+}
