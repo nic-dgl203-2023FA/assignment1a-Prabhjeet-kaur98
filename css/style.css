@@ -211,3 +211,6 @@ footer {
 .navbar .list{
     float: left;
 }
+.custom-grid-section {
+    background: #fbb1bd;
+}
