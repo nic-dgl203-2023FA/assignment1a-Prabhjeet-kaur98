@@ -222,6 +222,7 @@ footer {
 .custom-grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);  
+    grid-template-rows: repeat(2, 1fr); 
     grid-gap: 20px;
 
 }
@@ -235,8 +236,8 @@ footer {
 /* Motion grid Media query for small screens */
 @media screen and (max-width: 749px) {
     .custom-grid-container {
-        grid-template-columns: 1fr; 
-        grid-template-rows: repeat(6, 1fr);
+        grid-template-columns: 1fr; /* 1 column for small screens */
+        grid-template-rows: repeat(6, 1fr); /* 6 rows for small screens */
     }
     
 }
