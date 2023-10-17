@@ -306,6 +306,7 @@ footer {
     overflow: hidden;
     width: 0;
     border-right: 2px solid #fbb1bd;
+    animation: typing 3s steps(30) infinite, blink-caret 1s step-end infinite;
 }
 
 
