@@ -271,7 +271,9 @@ footer {
     font-size: 30px;
     color: #fbb1bd ;
 }
+
 /* Apply the image animation to .grid-3 */
+ 
 .custom-grid-item-svg-container {
     width: 100px;
     height: 100px;
@@ -286,7 +288,8 @@ footer {
     cursor: pointer;
 
 }
-/* imageanimation keyframes */
+/* image animation keyframes */
+
 @keyframes moveBackAndForth {
     0%, 100% {
         transform: translateX(-60px);
