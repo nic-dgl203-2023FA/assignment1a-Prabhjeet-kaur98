@@ -332,6 +332,7 @@ footer {
     font-weight: bold;
     display: inline-block;
     animation: flipUpAndDown 1s infinite;
+    transform-origin: center bottom;
     
 
 }
