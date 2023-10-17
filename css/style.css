@@ -267,6 +267,7 @@ footer {
 /* Apply the animation to .grid-2 class */
 .transition-button-large-button { 
     animation: scaleAnimation 2s infinite;
+    font-style: oblique;
 }
 
 
