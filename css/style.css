@@ -299,7 +299,9 @@ footer {
 .custom-grid-item-svg-container:hover img {
     animation: none;
 }
-
+.self-typing-text {
+    font-size: 20px;
+}
 
 
 
