@@ -295,6 +295,11 @@ footer {
         transform: translateX(100px); 
     }
 }
+/* Disable the animation on hover */
+.custom-grid-item-svg-container:hover img {
+    animation: none;
+}
+
 
 
 
