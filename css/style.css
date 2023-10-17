@@ -269,7 +269,7 @@ footer {
     animation: scaleAnimation 2s infinite;
     font-style: italic;
     font-size: 30px;
-    color: #d5687a;
+    color: #fbb1bd ;
 }
 /* Apply the image animation to .grid-3 */
 .custom-grid-item-svg-container {
@@ -333,7 +333,7 @@ footer {
     display: inline-block;
     animation: flipUpAndDown 1s infinite;
     transform-origin: center bottom;
-    color:  #d5687a;
+    color:   #fbb1bd ;
     
 }
 @keyframes flipUpAndDown {
