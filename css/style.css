@@ -238,7 +238,7 @@ footer {
 }
 /* Add styles for the button inside grid 1 */
 .transition-button {
-    background: #4591c7;
+    background:  #fbb1bd ;
     width: 64%;
     color: #F7FFF7;
     border: none;
@@ -248,7 +248,7 @@ footer {
     border-radius: 4px;
    }
    .transition-button:hover {
-    background-color: #fbb1bd;
+    background-color: #d5687a;
     color: #000000;
     transform: scale(1.3);
    }
