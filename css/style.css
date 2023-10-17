@@ -282,6 +282,7 @@ footer {
     height: auto;
     position: absolute;
     animation: moveBackAndForth 2s linear infinite;
+    cursor: pointer;
 
 }
 
