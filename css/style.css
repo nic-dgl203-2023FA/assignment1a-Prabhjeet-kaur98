@@ -347,7 +347,11 @@ footer {
         transform: perspective(200px) rotateX(0deg);
     }
 }
-
+/* Apply the animation to cubic-bezier  */
+.custom-element {
+    width: 100px;
+    height: 100px;
+}
 
 
 /* Motion grid Media query for small screens */
