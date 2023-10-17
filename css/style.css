@@ -278,6 +278,8 @@ footer {
 }
 .custom-grid-item-svg-container {
     max-width: 100%;
+    display: block;
+    
 }
 
 
