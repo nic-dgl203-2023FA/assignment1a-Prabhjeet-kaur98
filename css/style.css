@@ -335,7 +335,17 @@ footer {
     transform-origin: center bottom;
     color:  #d5687a;
     
-
+}
+@keyframes flipUpAndDown {
+    0% {
+        transform: perspective(200px) rotateX(90deg);
+    }
+    50% {
+        transform: perspective(400px) rotateX(60deg);
+    }
+    100% {
+        transform: perspective(200px) rotateX(0deg);
+    }
 }
 
 
