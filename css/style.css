@@ -301,7 +301,8 @@ footer {
 }
 .self-typing-text {
     font-size: 20px;
-    color: #fbb1bd ;
+    color: #fbb1bd;
+    white-space: nowrap;
 }
 
 
