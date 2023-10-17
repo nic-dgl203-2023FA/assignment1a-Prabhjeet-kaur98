@@ -333,6 +333,7 @@ footer {
     display: inline-block;
     animation: flipUpAndDown 1s infinite;
     transform-origin: center bottom;
+    color:  #d5687a;
     
 
 }
