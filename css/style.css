@@ -289,10 +289,10 @@ footer {
 /* imageanimation keyframes */
 @keyframes moveBackAndForth {
     0%, 100% {
-        transform: translateX(2);
+        transform: translateX(-60px);
     }
     50% {
-        transform: translateX(100px); 
+        transform: translateX(60px); 
     }
 }
 /* Disable the animation on hover */
