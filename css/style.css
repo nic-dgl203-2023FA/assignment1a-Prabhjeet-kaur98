@@ -280,6 +280,8 @@ footer {
     max-width: 100%;
     display: block;
     height: auto;
+    position: absolute;
+    animation: moveBackAndForth 2s linear infinite;
 
 }
 
