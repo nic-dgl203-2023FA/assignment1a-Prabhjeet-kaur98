@@ -304,6 +304,7 @@ footer {
     color: #fbb1bd;
     white-space: nowrap;
     overflow: hidden;
+    border-right: 2px solid #fbb1bd;
 }
 
 
