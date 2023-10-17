@@ -316,6 +316,18 @@ footer {
         width: 100%;
     }
 }
+@keyframes blink-caret {
+    from,
+    to {
+        border-color: transparent;
+    }
+    50% {
+        border-color: #fbb1bd;
+    }
+}
+
+
+
 
 
 /* Motion grid Media query for small screens */
