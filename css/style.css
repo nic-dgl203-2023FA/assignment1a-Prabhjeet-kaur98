@@ -351,7 +351,8 @@ footer {
 .custom-element {
     width: 100px;
     height: 100px;
-    background-color:  #fbb1bd;;
+    background-color:#fbb1bd;
+    animation: customRotation 4s cubic-bezier(0.40, 0.94, 0.9, 0.25) infinite;
 }
 
 
