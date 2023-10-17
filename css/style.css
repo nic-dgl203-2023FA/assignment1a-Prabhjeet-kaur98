@@ -271,6 +271,11 @@ footer {
     font-size: 30px;
     color: #d5687a;
 }
+.custom-grid-item-svg-container {
+    width: 100px;
+    height: 100px;
+}
+
 
 
 
