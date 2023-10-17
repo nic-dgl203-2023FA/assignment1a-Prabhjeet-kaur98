@@ -274,6 +274,7 @@ footer {
 .custom-grid-item-svg-container {
     width: 100px;
     height: 100px;
+    position: relative;
 }
 
 
