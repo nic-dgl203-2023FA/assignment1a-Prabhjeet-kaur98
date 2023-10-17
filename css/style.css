@@ -326,7 +326,11 @@ footer {
     }
 }
 
-
+/* styling for flipping text */
+.flip-text {
+    font-size: 30px;
+    font-weight: bold;
+}
 
 
 
