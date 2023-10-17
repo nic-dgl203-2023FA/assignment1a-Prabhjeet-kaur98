@@ -330,6 +330,10 @@ footer {
 .flip-text {
     font-size: 30px;
     font-weight: bold;
+    display: inline-block;
+    animation: flipUpAndDown 1s infinite;
+    
+
 }
 
 
