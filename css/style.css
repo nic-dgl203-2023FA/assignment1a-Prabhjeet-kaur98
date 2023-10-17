@@ -276,7 +276,9 @@ footer {
     height: 100px;
     position: relative;
 }
-
+.custom-grid-item-svg-container {
+    max-width: 100%;
+}
 
 
 
