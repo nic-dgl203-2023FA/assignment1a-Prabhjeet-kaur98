@@ -383,6 +383,10 @@ footer {
     }
   }
 /* Animation for the "circle" (ID: circle) */
+#circle {
+    animation: circleAnimation 3s infinite linear, resetAnimation 3s infinite linear;
+  }
+  
 
 
 
