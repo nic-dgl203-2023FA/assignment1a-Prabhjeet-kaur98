@@ -448,6 +448,19 @@ footer {
       transform: scaleY(0.9);
     }
   }
+   /* Animation for "closed_upper" (ID: closed_upper) */
+   #closed_upper {
+    animation: closedLowerAnimation 3s infinite ease-in-out, resetAnimation 3s infinite ease-in-out;
+  }
+  @keyframes closedupperAnimation {
+    0%, 100% {
+      transform: scaleY(1);
+    }
+    50% {
+      transform: scaleY(0.9);
+    }
+  }
+  
   
 
 
@@ -460,4 +473,5 @@ footer {
     }
     
 }
+
 
