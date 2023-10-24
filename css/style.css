@@ -410,6 +410,11 @@ footer {
       transform: translateX(20px);
     }
   }
+  /* Animation for "lower_path" (ID: lower_path) */
+  #lower_path {
+    animation: lowerPathAnimation 5s infinite linear, resetAnimation 5s infinite linear;
+  }
+  
   
 
 
