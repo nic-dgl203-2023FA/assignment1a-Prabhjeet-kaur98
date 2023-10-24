@@ -397,6 +397,11 @@ footer {
       transform: scale(1.1);
     }
   }
+
+ /* Animation for "layer_p" (ID: layer_p) */
+ #layer_p {
+    animation: layerPAnimation 4s infinite linear alternate, resetAnimation 4s infinite linear alternate;
+  }
   
 
 
