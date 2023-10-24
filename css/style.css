@@ -368,6 +368,10 @@ footer {
     }
 }
 
+/* Css for animation.html */
+#logo-animation {
+    width: 40%;
+}
 
 /* Motion grid Media query for small screens */
 @media screen and (max-width: 749px) {
