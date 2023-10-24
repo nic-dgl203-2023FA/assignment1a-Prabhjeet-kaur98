@@ -371,6 +371,8 @@ footer {
 /* Css for animation.html */
 #logo-animation {
     width: 40%;
+    display: block;
+  margin: 0 auto;
 }
 
 /* Motion grid Media query for small screens */
