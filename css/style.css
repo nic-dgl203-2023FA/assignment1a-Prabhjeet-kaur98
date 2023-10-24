@@ -370,10 +370,11 @@ footer {
 
 /* Css for animation.html */
 #logo-animation {
-    width: 40%;
+    width: 60%;
     display: block;
   margin: 0 auto;
   max-width: 100%;
+  padding: 80px;
 }
 
 /* Motion grid Media query for small screens */
