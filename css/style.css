@@ -402,6 +402,14 @@ footer {
  #layer_p {
     animation: layerPAnimation 4s infinite linear alternate, resetAnimation 4s infinite linear alternate;
   }
+  @keyframes layerPAnimation {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(20px);
+    }
+  }
   
 
 
