@@ -414,7 +414,14 @@ footer {
   #lower_path {
     animation: lowerPathAnimation 5s infinite linear, resetAnimation 5s infinite linear;
   }
-  
+  @keyframes lowerPathAnimation {
+    0% {
+      transform: scaleX(1);
+    }
+    100% {
+      transform: scaleX(1.1);
+    }
+  }
   
 
 
