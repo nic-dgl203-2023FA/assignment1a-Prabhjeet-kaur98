@@ -373,6 +373,7 @@ footer {
     width: 40%;
     display: block;
   margin: 0 auto;
+  max-width: 100%;
 }
 
 /* Motion grid Media query for small screens */
