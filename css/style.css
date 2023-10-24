@@ -386,6 +386,17 @@ footer {
 #circle {
     animation: circleAnimation 3s infinite linear, resetAnimation 3s infinite linear;
   }
+  @keyframes circleAnimation {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1.1);
+    }
+  }
   
 
 
