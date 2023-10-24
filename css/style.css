@@ -376,6 +376,15 @@ footer {
   max-width: 100%;
   padding: 80px;
 }
+/* Common keyframe for resetting all elements */
+@keyframes resetAnimation {
+    100% {
+      transform:none; /* Reset the transformations */
+    }
+  }
+/* Animation for the "circle" (ID: circle) */
+
+
 
 /* Motion grid Media query for small screens */
 @media screen and (max-width: 749px) {
