@@ -435,6 +435,19 @@ footer {
       transform: translateY(10px);
     }
   }
+  /* Animation for "closed_lower" (ID: closed_lower) */
+  #closed_lower {
+    animation: closedLowerAnimation 3s infinite ease-in-out, resetAnimation 3s infinite ease-in-out;
+  }
+  
+  @keyframes closedLowerAnimation {
+    0%, 100% {
+      transform: scaleY(1);
+    }
+    50% {
+      transform: scaleY(0.9);
+    }
+  }
   
 
 
