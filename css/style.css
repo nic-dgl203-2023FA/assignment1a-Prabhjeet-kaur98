@@ -422,6 +422,19 @@ footer {
       transform: scaleX(1.1);
     }
   }
+  /* Animation for "upper_path" (ID: upper_path) */
+  #upper_path {
+    animation: upperPathAnimation 4s infinite ease-in-out, resetAnimation 4s infinite ease-in-out;
+  }
+  
+  @keyframes upperPathAnimation {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(10px);
+    }
+  }
   
 
 
