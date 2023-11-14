@@ -1,0 +1,21 @@
+.footer {
+    background: #343434;
+    color: #80ffdb;
+
+    display: flex;
+    justify-content: center;
+  
+    .contact-list {
+
+    list-style-type: none;
+      padding: 0;
+  
+      a {
+        padding: 15px;
+        display: inline-block;
+        color: #fbb1bd;
+        font-weight: bold;
+      }
+    }
+  }
+  

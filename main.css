@@ -36,6 +36,9 @@ header {
 .projects {
   background: #fbb1bd;
 }
+.projects h2 {
+  padding-left: 150px;
+}
 .projects a {
   color: #2f3061;
 }
@@ -73,6 +76,9 @@ header {
 .work-experience__content-wrap {
   padding: 20px;
 }
+.work-experience__item-details {
+  padding-left: 350px;
+}
 .work-experience__item-details .job-item {
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -91,6 +97,23 @@ header {
   grid-template-columns: 1fr 2fr;
   -moz-column-gap: 20px;
        column-gap: 20px;
+}
+
+.footer {
+  background: #343434;
+  color: #80ffdb;
+  display: flex;
+  justify-content: center;
+}
+.footer .contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+.footer .contact-list a {
+  padding: 15px;
+  display: inline-block;
+  color: #fbb1bd;
+  font-weight: bold;
 }
 
 html {
