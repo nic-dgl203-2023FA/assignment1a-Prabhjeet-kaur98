@@ -58,6 +58,8 @@ header {
 .project-item img {
   margin-right: 20px;
   float: left;
+  margin-left: 150px;
+  padding-bottom: 50px;
 }
 .project-item h3 {
   margin-top: 0;
@@ -76,7 +78,19 @@ header {
   grid-template-columns: 1fr 2fr;
   -moz-column-gap: 20px;
        column-gap: 20px;
-  align-items: center;
+}
+
+.education {
+  background-image: url(../images/various-colorful-stationery-school-office-pink-background-with-copyspace\ .jpg);
+  background-size: cover;
+  background-position: top right;
+  padding-bottom: 100px;
+}
+.education__item-details .job-item {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  -moz-column-gap: 20px;
+       column-gap: 20px;
 }
 
 html {
