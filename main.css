@@ -53,6 +53,7 @@ header {
 
 .project-item {
   overflow: hidden;
+  align-items: left;
 }
 .project-item img {
   margin-right: 20px;
@@ -69,13 +70,13 @@ header {
 }
 .work-experience__content-wrap {
   padding: 20px;
-  text-align: center;
 }
 .work-experience__item-details .job-item {
   display: grid;
   grid-template-columns: 1fr 2fr;
   -moz-column-gap: 20px;
        column-gap: 20px;
+  align-items: center;
 }
 
 html {
