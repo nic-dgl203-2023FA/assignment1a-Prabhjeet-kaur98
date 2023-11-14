@@ -1,0 +1,36 @@
+// Projects Section
+.projects {
+    background: #fbb1bd;
+  
+    a {
+      color: #2f3061;
+    }
+  
+    .btn {
+      color: #f7fff7;
+      background: #48bfe3;
+      text-decoration: none;
+      padding: 8px;
+      border-radius: 4px;
+      display: inline-block;
+  
+      &:hover {
+        background: rgba(72, 191, 227, 70%);
+      }
+    }
+  }
+  
+  // Project Item Styles
+  .project-item {
+    overflow: hidden;
+  
+    img {
+      margin-right: 20px;
+      float: left;
+    }
+  
+    h3 {
+      margin-top: 0;
+    }
+  }
+  

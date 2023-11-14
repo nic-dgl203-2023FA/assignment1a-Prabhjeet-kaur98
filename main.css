@@ -28,6 +28,54 @@ header {
   background-size: cover;
   padding-left: 100px;
   color: #000000;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.projects {
+  background: #fbb1bd;
+}
+.projects a {
+  color: #2f3061;
+}
+.projects .btn {
+  color: #f7fff7;
+  background: #48bfe3;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.projects .btn:hover {
+  background: rgba(72, 191, 227, 0.7);
+}
+
+.project-item {
+  overflow: hidden;
+}
+.project-item img {
+  margin-right: 20px;
+  float: left;
+}
+.project-item h3 {
+  margin-top: 0;
+}
+
+.work-experience {
+  background: #80ffdb;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.work-experience__content-wrap {
+  padding: 20px;
+  text-align: center;
+}
+.work-experience__item-details .job-item {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  -moz-column-gap: 20px;
+       column-gap: 20px;
 }
 
 html {
