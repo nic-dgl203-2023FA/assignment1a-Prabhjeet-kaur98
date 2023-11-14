@@ -2,12 +2,14 @@
     background: #80ffdb;
     padding-top: 100px;
     padding-bottom: 100px;
+
   
     &__content-wrap {
       padding: 20px;
     }
   
     &__item-details {
+        padding-left: 350px;
       .job-item {
         display: grid;
         grid-template-columns: 1fr 2fr;
