@@ -1,3 +1,28 @@
+.navbar {
+  background-color: #343434;
+  color: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  text-align: right;
+}
+.navbar__list {
+  list-style-type: none;
+  padding: 10px;
+  margin: -1px;
+}
+.navbar__item {
+  display: inline-block;
+  margin-right: 40px;
+}
+.navbar__link {
+  font-weight: bold;
+  font-size: 30px;
+}
+.navbar__link:hover {
+  color: #ff7096;
+}
+
 html {
   box-sizing: border-box;
 }
