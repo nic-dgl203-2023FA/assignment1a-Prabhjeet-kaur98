@@ -1,0 +1,19 @@
+.work-experience {
+    background: #80ffdb;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  
+    &__content-wrap {
+      padding: 20px;
+      text-align: center;
+    }
+  
+    &__item-details {
+      .job-item {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        column-gap: 20px;
+      }
+    }
+  }
+  
