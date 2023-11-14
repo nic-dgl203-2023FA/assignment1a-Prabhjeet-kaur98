@@ -1,6 +1,7 @@
 // Projects Section
 .projects {
     background: #fbb1bd;
+    
   
     a {
       color: #2f3061;
@@ -20,7 +21,6 @@
     }
   }
   
-  // Project Item Styles
   .project-item {
     overflow: hidden;
     align-items: left;
@@ -28,10 +28,13 @@
     img {
       margin-right: 20px;
       float: left;
+      margin-left: 150px;
+      padding-bottom: 50px;
     }
   
     h3 {
       margin-top: 0;
-    }
+     
   }
+}
   
