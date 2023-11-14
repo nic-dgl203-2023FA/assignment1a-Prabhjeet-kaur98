@@ -1,0 +1,78 @@
+$base-font-family: 'PT Sans Narrow', sans-serif;
+$heading-font-family: 'Dancing Script', cursive;
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  color: #343434;
+  margin: 0;
+  padding: 0;
+  font-family: $base-font-family;
+  font-size: 15px;
+  line-height: 1.5;
+
+  img {
+    width: 300px;
+  }
+
+  a {
+    color: #fbb1bd;
+    font-weight: bold;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  h1 {
+    font-size: 100px;
+    line-height: 1;
+  }
+
+  h2 {
+    font-size: 45px;
+  }
+
+  h1, h2 {
+    font-family: $heading-font-family;
+    font-weight: 400;
+    margin: 0;
+  }
+}
+
+.content-wrap {
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 80px 0;
+
+  h3 {
+    margin-bottom: 0;
+  }
+
+  .item-details {
+    h3 + p {
+      font-style: italic;
+    }
+
+    h3 ~ p {
+      margin: 0;
+    }
+  }
+
+  .divider > section {
+    border-bottom: 1px dashed #343434;
+    padding: 25px 0;
+
+    &:last-of-type {
+      border-style: none;
+    }
+  }
+}
+  
