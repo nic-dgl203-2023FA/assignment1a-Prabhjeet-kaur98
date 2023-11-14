@@ -23,6 +23,13 @@
   color: #ff7096;
 }
 
+header {
+  background-image: url(../images/copy-space-background-curved-sheets-paper.jpg);
+  background-size: cover;
+  padding-left: 100px;
+  color: #000000;
+}
+
 html {
   box-sizing: border-box;
 }
